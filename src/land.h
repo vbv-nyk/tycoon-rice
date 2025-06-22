@@ -15,6 +15,10 @@ class Land {
 
        public:
         Grid(int _nr, int _nc) : nr(_nr), nc(_nc) {}
+        void setGridSize(int _nr, int _nc) {
+            nr = _nr;
+            nc = _nc;
+        }
     };
 
    private:
@@ -37,5 +41,14 @@ class Land {
     // positions here are grid row begin, row end, col start, col end
     // you can then mention how you want to position the sprite
     void addSprite(int rb, int re, int cb, int ce);
-    void setBackground(const std::string& _background);
+
+    // The background image of the land you want to place your plants on.
+    void setBackground(const std::string& _background) {
+        background = _background;
+    }
+    
+    // Resize your grid, by default 3x3.
+    void setGridSize(int _nr, int _nc) {
+        grid.setGridSize(_nr, _nc);
+    }
 };
