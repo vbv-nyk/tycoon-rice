@@ -1,3 +1,5 @@
+// need to include things like scaling params
+// yk the classic feh parameters
 #include <string>
 class Garden {
    private:
