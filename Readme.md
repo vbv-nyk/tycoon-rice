@@ -1,22 +1,12 @@
-We have a Garden.
-Garden has a background by default. This is a static image.
-Garden will contain Areas.
-Areas will have their own background. And may have stages.
+Dear Ricers,
+The following is a full customisable idle tycoon. 
+Define your garden (Static image)
+Define the land on your garden 
+Place sprites on your garden (Touch grass?)
+Specify what happens to your sprites over time (Stare at your monitor)
+Enjoy!
 
-You can place plants on areas.
-Plants have growth, growth will have stages which will define their appearence over time.
-
-Basically I will have a Garden object
-Garden = {
-
-}
-
-Garden will contain areas
-
-Garden = {
-    Areas = {
-
-    }
-}
-
-Areas will contain sprite(s) that will grow over time.
+thank you, 
+get creative,
+see you soon,
+vbv-nyk
