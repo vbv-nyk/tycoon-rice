@@ -1,12 +1,12 @@
-Dear Ricers,
-The following is a full customisable idle tycoon. 
-Define your garden (Static image)
-Define the land on your garden 
-Place sprites on your garden (Touch grass?)
-Specify what happens to your sprites over time (Stare at your monitor)
-Enjoy!
+Dear Ricers,<br/>
+The following is a full customisable idle tycoon. <br/>
+Define your garden (Static image)<br/>
+Define the land on your garden <br/>
+Place sprites on your garden (Touch grass?)<br/>
+Specify what happens to your sprites over time (Stare at your monitor)<br/>
+Enjoy!<br/>
 
-thank you, 
-get creative,
-see you soon,
-vbv-nyk
+thank you, <br/>
+get creative,<br/>
+see you soon,<br/>
+vbv-nyk<br/>
